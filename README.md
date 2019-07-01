@@ -1,5 +1,7 @@
 ## W6D1  -- Intro To React
 
+### [Repo Link](https://github.com/vasiliy-klimkin/intro-to-react-w6d1)
+
 Welcome to your first day of React
 
 ### What is React?
@@ -57,7 +59,9 @@ Components can have other components nested as children. A parent component can 
 
 JSX is a superset of Javascript. It lets embed Javascript in the HTML that we want our components to return. There are some rules to writing valid JSX. Here are some of them:
 
-1) All Tags must close
+1) All Tags must close.
+
+
 Good!
 
 ```jsx
